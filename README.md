@@ -10,7 +10,7 @@ Repositorio de analisis y  desarrollo de sistemas de informacion
 5. css
 6. css3
 7. sass
-8. javascript
+8. Javascript
 
 ===================================================================
 
